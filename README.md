@@ -1,4 +1,4 @@
-# Body-Monitoring-System-in-Proteus
+# Body Monitoring System
 Google Drive link of video explanation:
 https://drive.google.com/file/d/1vSZqkxvvldmyTalxVRwlc8CqPpWeQ-pn/view?usp=sharing
 Complete File:
